@@ -1,0 +1,9 @@
+'''
+Author:Vismaya Theresa Benny
+Date:9/11/2024
+program to find area of a rectangle
+'''
+Length=10
+Width=5
+Area=Length*Width
+print("Area of the rectangle =",Area)
