@@ -1,0 +1,15 @@
+'''
+Author:Vismaya Theresa Benny
+Date:10/11/2024
+python program to determine whether the temperature is Freezing,cold,warm or hot
+'''
+Temp=int(input("Enter the temperature:"))
+if Temp<0:
+    print("Freezing")
+elif Temp>0 and Temp<15:
+    print("Cold")
+elif Temp>16 and Temp<30:
+    print("Warm")
+else:
+    print("Hot")
+    
