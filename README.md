@@ -1,4 +1,4 @@
-# 30-Days-of-python-programming
+# 30-Days-of-python-programming ✨✨
 To learn Python together 
 # lets learn python together 
 ## Be considarate and help each other 
