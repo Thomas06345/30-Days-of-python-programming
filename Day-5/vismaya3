@@ -1,0 +1,7 @@
+word=input("Enter a word:")
+if word[0:]==word[::-1]:
+    print("The given word",word,"is Pallindrome")
+else:
+    print("The given word",word,"is not a pallindrome")
+
+

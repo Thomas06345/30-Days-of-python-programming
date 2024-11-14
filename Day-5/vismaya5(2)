@@ -1,0 +1,11 @@
+'''
+Author:Vismaya Theresa Benny
+Date:14/11/2024
+pyhton program to print a triangular pattern of stars
+'''
+Number=int(input("Enter a number:"))
+for i in range(1,Number+1):
+    for j in range(i):
+        print("*",end=" ")
+    print()
+    
