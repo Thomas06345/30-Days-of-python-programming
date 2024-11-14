@@ -1,3 +1,8 @@
+'''
+Author:Vismaya Theresa Benny
+Date:14/11/2024
+program to check whether the given word is pallindrome or not
+'''
 word=input("Enter a word:")
 if word[0:]==word[::-1]:
     print("The given word",word,"is Pallindrome")
