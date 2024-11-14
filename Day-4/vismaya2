@@ -1,0 +1,8 @@
+'''
+Author:Vismaya Theresa Benny
+Date:12/11/2024
+python program that combines two strings together
+'''
+string1=(input("enter a string:"))
+string2=(input("Enter a string 2"))
+print(string1+string2)
